@@ -69,13 +69,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<div class="form-group">
-									<label>First Name</label>
+									<label>First Name:</label>
 									<input type="text" name="first_name" id="first_name"  required data-parsley-pattern="^[a-zA-Z]+$" data-parsley-trigger="keyup" class="form-control">
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="form-group">
-									<label>Last Name</label>
+									<label>Last Name:</label>
 									<input type="text" name="last_name" id="last_name" required data-parsley-pattern="^[a-zA-Z]+$" data-parsley-trigger="keyup"  class="form-control">
 								</div>
 							</div>

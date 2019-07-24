@@ -79,7 +79,7 @@
        </div>
       </div>
       <div class="form-group">
-       <label for="email">Email</label>
+       <label for="email">Email Address</label>
        <input type="text" name="email" id="email" placeholder="Email" required data-parsley-type="email" data-parsley-trigger="keyup" class="form-control" />
       </div>
       <div class="form-group">
